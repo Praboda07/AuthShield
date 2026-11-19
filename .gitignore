@@ -16,3 +16,6 @@ Thumbs.db
 
 # Sensitive configuration files
 .env
+
+# Runtime database (created automatically)
+*.db
